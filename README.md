@@ -4,4 +4,5 @@
 <h3>Objective</h3>
 <p> This project aim to understand the business growth of Music Store</p>
 
+<h3>Database Schema</h3>
 ![Schema Diagram](schema_diagram.png)
