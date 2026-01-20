@@ -5,7 +5,7 @@
 <p> This project aim to understand the business growth of Music Store.</p>
 
 ## Queries
-1.Who is the senior most employee based on job title? 
+*1.Who is the senior most employee based on job title? 
 2. Which countries have the most Invoices? 
 3. What are top 3 values of total invoice? 
 4. Which city has the best customers? We would like to throw a promotional Music 
