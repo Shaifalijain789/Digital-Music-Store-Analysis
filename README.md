@@ -1,4 +1,4 @@
-<h1>SQL Project Digital Music Store Analysis<h1>
+<h1>SQL Project Digital Music Store Analysis</h1>h1>
 <p> SQL project to analyze the music playlist database. </p>
 
 <h3>Objective</h3>
