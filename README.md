@@ -3,12 +3,13 @@
 
 ## Objective
 <p> This project aim to understand the business growth of Music Store</p>
-<h3>Database Schema</h3>
+
 
 
 
 ## Database and Tools
 * MySQL
+## Database Schema
 ![Schema Diagram](schema_diagram.png)
 
 
