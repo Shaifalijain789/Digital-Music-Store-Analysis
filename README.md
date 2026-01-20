@@ -2,8 +2,9 @@
 <p> SQL project to analyze the music playlist database. </p>
 
 ## Objective
-<p> This project aim to understand the business growth of Music Store</p>
+<p> This project aim to understand the business growth of Music Store.</p>
 
+## Queries
 
 
 
